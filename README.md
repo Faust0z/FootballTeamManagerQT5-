@@ -11,3 +11,5 @@ This app does:
 Penalties are not taken into account.
 
 To use, download the project and install the requirements.txt
+
+Developed using Python 3.13
